@@ -1,2 +1,0 @@
-pip install plotly
-pip install -r requirements.txt --use-pep517 -i https://mirrors.aliyun.com/pypi/simple/
