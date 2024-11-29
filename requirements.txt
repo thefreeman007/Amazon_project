@@ -1,0 +1,5 @@
+keepa==1.3.11
+matplotlib==3.7.5
+pandas==2.0.3
+prophet==1.1.5
+tqdm==4.67.1
