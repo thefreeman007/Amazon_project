@@ -24,18 +24,12 @@ Prophet generally works better without normalization. Therefore, the code does n
 
 Prediction Examples
 Below are examples of predictions based on real data. The prediction period is set to 60 days from the completion of the code. Predictions are on a daily basis; if you need weekly or monthly predictions, please modify the code accordingly or contact me for assistance.
-1.
 Product 1: The predicted sales cycles closely align with the actual data, with most blue points falling within the forecast range.
 ![images](images/Figure_1.png)
-2.
-3.
 Product 2: Although the overall prediction for Product 2 is slightly underestimated, it still reveals the trend of declining sales.
 ![images](images/Figure_2.png)
-4.
-5.
 Product 3: For products with stable sales, the model provides highly accurate results.
 ![images](images/Figure_4.png)
-6.
 
 How to Use
 1.Download the code.
@@ -76,18 +70,13 @@ Prophet 在不归一化的情况下通常效果更优，因此本代码未做归
 
 预测效果示例
 以下是基于部分真实数据的预测效果图，预测周期为代码完成时的 60 天，以天为单位。如需以月或周为单位，请自行修改代码或与我联系。
-1.
 商品 1：预测的销售周期与实际周期基本一致，大部分蓝点落在预测区间内。
-(images/Figure_1.png)
-2.
-3.
+![images](images/Figure_1.png)
 商品 2：虽然总体预测值偏低，但能揭示商品销售总体下滑的趋势。
-(images/Figure_2.png)
-4.
-5.
+![images](images/Figure_2.png)
 商品 3：对于销售趋于平稳的商品，模型效果良好。
-(images/Figure_4.png)
-6.
+![images](images/Figure_4.png)
+
 
 使用方法
 1.下载代码。
